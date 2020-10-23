@@ -1,1 +1,1 @@
-# Exercise
+# Finance Trading strategy
