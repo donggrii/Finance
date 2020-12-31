@@ -1,1 +1,1 @@
-# Finance Trading strategy
+# Finance
